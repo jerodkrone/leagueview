@@ -76,6 +76,12 @@ body {
 .explainer strong {
   color: #cbd5e1;
 }
+.coming-soon {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--accent-orange);
+}
 
 /* ── League tabs ── */
 .league-tabs {

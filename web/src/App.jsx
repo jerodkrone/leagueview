@@ -200,10 +200,13 @@ export default function App() {
         </div>
 
         <p className="explainer">
-          Teams ranked by active players aging out of eligibility — the most open
-          spots for camp attendees next season. <strong>F</strong> = forward,{' '}
-          <strong>D</strong> = defense, <strong>G</strong> = goalie.
+          A place to start as you build your summer camp plans. Understanding each
+          team's roster age-outs is a great way to gauge where the opportunities are.
+          Keep in mind teams can also sign (tender) players and add talent through the
+          draft. <strong>F</strong> = forward, <strong>D</strong> = defense,{' '}
+          <strong>G</strong> = goalie.
         </p>
+        <p className="coming-soon">Tender and draft data coming soon!</p>
       </header>
 
       {byYearMissing && (
