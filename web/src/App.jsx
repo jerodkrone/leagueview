@@ -176,7 +176,7 @@ export default function App() {
       <header className="header">
         <div className="header-inner">
           <div>
-            <h1 className="logo">LeagueView</h1>
+            <h1 className="logo">AgeOuts</h1>
             <p className="tagline">{data.league_name} roster gaps · {data.season} season</p>
           </div>
           <div className="freshness">
