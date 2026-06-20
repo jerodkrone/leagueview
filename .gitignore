@@ -14,3 +14,9 @@ dist/
 !.beads/config.yaml
 !.beads/metadata.json
 !.beads/identity.toml
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
